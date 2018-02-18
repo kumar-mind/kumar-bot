@@ -1,0 +1,28 @@
+{
+  "defaults": {
+    "ANONYMOUS": "anonymous",
+    "ADMIN": "admin",
+    "USER": "user",
+    "PRIVILEGED": "privileged"
+  },
+  "anonymous": {
+    "parent": "ANONYMOUS",
+    "display-name": "anonymous",
+    "permissions": {}
+  },
+  "user": {
+    "parent": "USER",
+    "display-name": "user",
+    "permissions": {}
+  },
+  "privileged": {
+    "parent": "PRIVILEGED",
+    "display-name": "privileged",
+    "permissions": {}
+  },
+  "admin": {
+    "parent": "ADMIN",
+    "display-name": "admin",
+    "permissions": {}
+  }
+}

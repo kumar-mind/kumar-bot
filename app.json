@@ -1,0 +1,8 @@
+{
+	"name": "Kumar Server",
+	"description": "Artificial Inteligence for Chatbots",
+	"logo": "https://github.com/fossasia/kumar_server/blob/development/html/images/brand.png",
+	"website": "http://api.kumar.ai",
+	"repository": "https://github.com/fossasia/kumar_server.git",
+	"image": "mariobehling/loklak"
+}

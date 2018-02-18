@@ -1,0 +1,2 @@
+rootProject.name = 'kumar_server'
+include ':dependencies:public-transport-enabler:enabler'
