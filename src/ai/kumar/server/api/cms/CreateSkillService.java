@@ -54,6 +54,9 @@ public class CreateSkillService extends AbstractAPIHandler implements APIHandler
     }
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        
+        resp.setHeader("Access-Control-Allow-Origin", "*"); // enable CORS
+        
         JSONObject json = new JSONObject();
         Part file = req.getPart("image");
         if (file == null) {
