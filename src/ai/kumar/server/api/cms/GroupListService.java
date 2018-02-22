@@ -11,7 +11,7 @@ import java.io.File;
 import java.io.FilenameFilter;
 
 /**
- * Created by dravit on 10/6/17.
+ * 
  * API to get list of groups for a given model.
  * test locally at http://127.0.0.1:4000/cms/getgroups.json
  */

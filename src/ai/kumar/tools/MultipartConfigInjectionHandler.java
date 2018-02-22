@@ -1,9 +1,6 @@
 
 package ai.kumar.tools;
 
-/**
- * Created by chetankaushik on 04/08/17.
- */
 import java.io.IOException;
 
 import javax.servlet.MultipartConfigElement;

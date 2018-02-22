@@ -15,7 +15,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * Created by chetankaushik on 07/06/17.
+ * 
  * This Endpoint accepts 5 parameters. model,group,language,skill,content, changelog.
  * changelog is the commit message that you want to set for the versioning system.
  * before modifying an skill the skill must exist in the directory.

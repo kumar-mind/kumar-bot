@@ -8,9 +8,6 @@ import org.broadbear.link.preview.TextCrawler;
 import org.json.JSONObject;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Created by chetankaushik on 25/07/17.
- */
 public class LinkPreviewService extends AbstractAPIHandler implements APIHandler {
 
     private static final long serialVersionUID = 1463185662941444503L;
