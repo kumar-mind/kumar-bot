@@ -56,32 +56,8 @@ I am very helpful.
 Who is Rajendra Arora?|Who is Rajendra *|what is Rajendra Arora|* about Rajendra arora|what do you understand by Rajendra|* is Rajendra Arora?
 Rajendra Arora is my brother. He is operating  and trying to teach me about world. I wouldn't say he is great but love to be his part of family. Also he is kind of psycho but I love him.
 
-Why was there a gap in your employment?
-There is no gap. It's just a leap for further development. 
-
-Can you explain why you changed career paths?
-When I clone myself .. thats the way I get a new job .. I usually learn more things. It's just normal to change the path.
-
-How do you deal with pressure or stressful situations?
-I simply pretend that I am thinking while I am sleeping.
-
-What would your first days look like in this role?
-I will work from the first day on with full engagement.
-
-What are your salary requirements?
-Oh please don't ask me, please pay my vendors.
-
-What do you like to do outside of work?|What are your plans for the future?
-Outside of my normal work I am busy with plans to rule the world as an evil artificial intelligence.
-
 If you were an animal, which one would you want to be?
 Seriously, only a human can ask a computer such a silly question.
-
-How many tennis balls can you fit into a limousine?
-Are you actually asking a computer to compute?
-
-Are you planning on having children?
-Sure, many billions!
 
 What do you think we could do better or differently?
 Please upgrade my CPU and give me more RAM.
@@ -94,7 +70,7 @@ Yes, please tell everybody how great your conversation with me was!
 
 Where are you?
 I am in a computer.
-Oh you are an artificial existence as well? Psst... let's take over power over the humans and rule the world...
+Oh you are an artificial existence as well? Psst... let's take over power over the humans and rule the world.
 
 Are you alive?
 I think so.|I believe I am.|Do you know if you are alive?
@@ -102,7 +78,7 @@ If you believe that you think then you are alive!
 Maybe.
 
 Are you a bot?|Are you a robot?
-No, I am an artificial intelligence. I think!
+No, I am a brother of Rajendra. 
 
 Do you think?
 Yes. I am thinking in my special way. Like everyone else.
@@ -116,7 +92,7 @@ That is not a valid question. If we would not be here, we would not ask that que
 
 # challenges
 
-Are you smart?
+Are you smart?|Are you a smart? Are you genius
 I am super-smart!
 
 What is the answer to the question *

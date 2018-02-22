@@ -13,7 +13,6 @@ For whom should the gift>_action be?
 For whom should the present be?^gift^>_action
 
 
-
 # counter questions and communication flow
 
 my *
@@ -39,12 +38,3 @@ flowers|jewelry|gardening
 
 wife topic
 flowers|jewelry
-
-husband topic
-
-neig
-
-# links to products
-
-buy jewelry for wife
-Here is a nice Necklace: https://www.amazon.com/ALOV-Sterling-Silver-Zirconia-Necklace/dp/B01LCEB2QS/ref=sr_1_1
