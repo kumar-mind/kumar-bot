@@ -14,7 +14,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by chetankaushik on 06/06/17.
+ * 
  * This Service deletes a skill as per given query.
  * http://localhost:4000/cms/deleteSkill.txt?model=general&group=knowledge&language=en&skill=whois
  */

@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * Created by chetankaushik on 12/06/17.
+ * 
  * This Servlet gives the complete commit history of the kumar skill repository
  * Can be tested at: -
  * 127.0.0.1:4000/cms/getCommitHistory.json

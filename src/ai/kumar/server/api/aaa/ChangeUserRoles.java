@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.lang.reflect.Constructor;
 
 /**
- * Created by chetankaushik on 30/05/17.
+ * 
  * This is a servlet that is used to change the role of any user
  * This requires Admin login
  * http://127.0.0.1:4000/aaa/changeRoles this accepts two post parameters-

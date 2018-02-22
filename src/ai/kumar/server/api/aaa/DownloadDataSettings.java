@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.*;
 
 /**
- * Created by dravit on 10/6/17.
+ * 
  */
 public class DownloadDataSettings extends AbstractAPIHandler implements APIHandler{
 

@@ -14,7 +14,7 @@ import java.lang.reflect.Constructor;
 import java.util.Collection;
 
 /**
- * Created by saurabh on 20/6/17.
+ * 
  * Servlet to read user setting
  * test locally at http://127.0.0.1:4000/aaa/listUserSettings.json
  */

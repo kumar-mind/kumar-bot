@@ -19,7 +19,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
-   Created by chetankaushik on 31/05/17.
+   
    This Servlet gives a API Endpoint to list all the users and their roles.
    It requires a ADMIN login or a ADMIN session
    Can be tested on 127.0.0.1:4000/aaa/getAllUsers.json

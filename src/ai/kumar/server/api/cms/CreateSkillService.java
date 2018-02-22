@@ -23,8 +23,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 /**
- * Created by saurabh on 7/6/17.
- * Modified by Chetan Kaushik on 4/8/17
+ * 
  * This Service creates an skill as per given query.
  * The skill name given in the query should not exist in the KUMAR intents Folder
  * Can be tested on :-
