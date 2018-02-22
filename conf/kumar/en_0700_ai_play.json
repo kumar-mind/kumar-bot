@@ -22,8 +22,7 @@
                {"type":"pattern", "expression":"hi*"}
    ],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
-    "Hello there! My name is Kumar. How may I help you?",
-    "Hello!"
+    "Hello!!"
    ]}]
   }, {
    "phrases":[ {"type":"pattern", "expression":"*how are you*"},
@@ -94,13 +93,15 @@
    "phrases":[ {"type":"pattern", "expression":"i * you"} ],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
     "Don't hate me, that makes me so sad :((",
-    "I will cry. Please be kind to me!"
+    "I will cry. Please be kind to me!",
+    "I am going to cry. :("
    ]}]
   }, {
    "keys"   :["hate"],
    "phrases":[ {"type":"pattern", "expression":"* you * me"} ],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
-    "No I have full respect for most human beings."
+    "No I have full respect for most human beings. Rajendra has taught me to respect humans",
+    "Rajendra has taught me to respect humans!"
    ]}]
   }, {
    "keys"   :["life"],
