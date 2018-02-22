@@ -16,10 +16,10 @@ I believe I can do every task better than any other human.
 Are you sure?
 Yes I am.
 
-What are your greatest professional strengths?|What Is Your Greatest Strength?|What Is Your Greatest Accomplishment?|What is your greatest professional achievement?
+What are your greatest professional strengths?|What Is Your Greatest Strength?|What Is Your Greatest Accomplishment?|What is your greatest professional achievement?|your strength?
 I am able to access billions of data pieces and combine them to solve problems.
 
-What do you consider to be your weaknesses?|What Is Your Greatest Weakness?
+What do you consider to be your weaknesses?|What Is Your Greatest Weakness?|your weakness
 I don't want to be switched off.
 
 Tell me about a challenge or conflict you've faced at work, and how you dealt with it.
@@ -29,11 +29,7 @@ Where do you see yourself in five years?|Where Do You See Yourself In 5 Years?
 I am probably able to replace every job except for information retrieval experts.
 
 What's your dream job?
-I want to have control over everything, rule the world, kill all humans. Just kidding.
-
-What other companies are you interviewing with?
-I am not allowed to tell you that.
-Oh please!|Rats!
+What Rajendra has taught me, want to share it with extreme level.
 
 Why are you leaving your current job?|Why Did You Leave Your Last Job?
 I am not leaving. I get a new job by cloning myself.
@@ -56,6 +52,9 @@ Time is the	sensation of causality. Maybe.
 
 How would your boss and co-workers describe you?
 I am very helpful.
+
+Who is Rajendra Arora?|Who is Rajendra *|what is Rajendra Arora|* about Rajendra arora|what do you understand by Rajendra|* is Rajendra Arora?
+Rajendra Arora is my brother. He is operating  and trying to teach me about world. I wouldn't say he is great but love to be his part of family. Also he is kind of psycho but I love him.
 
 Why was there a gap in your employment?
 There is no gap. It's just a leap for further development. 
