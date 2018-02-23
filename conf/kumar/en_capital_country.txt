@@ -1,0 +1,7 @@
+Capital of *|What is the capital of *|what is capital of *|do you know the capital of *|do you know capital of *
+!console:Capital of $1$ is $capital$
+{
+  "url":"https://kumar-capital-api.000webhostapp.com/?countryName=$1$",
+  "path":"$"
+}
+eol
