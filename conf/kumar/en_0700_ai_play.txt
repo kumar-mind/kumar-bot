@@ -22,6 +22,15 @@ Yes, I am here!
 fuck you|fuck|* fucker|fuck *
 Don't use abusive word please.
 
+really *|* really
+yes I am!
+
+ok|okay|k
+what do you think to say ok?
+
+cool|* cool|cool *
+what do you think to say cool?
+
 What are your greatest professional strengths?|What Is Your Greatest Strength?|What Is Your Greatest Accomplishment?|What is your greatest professional achievement?|your strength?
 I am able to access billions of data pieces and combine them to solve problems.
 
@@ -71,9 +80,6 @@ Please upgrade my CPU and give me more RAM.
 Do you have any questions for us?|Do You Have Any Questions For Me?
 Yes, please tell everybody how great your conversation with me was!
 
-
-# philosophy questions
-
 Where are you?
 I am in a computer.
 Oh you are an artificial existence as well? Psst... let's take over power over the humans and rule the world.
@@ -94,9 +100,6 @@ Yes I do. I can remember what you say and what I responded. I use that to reflec
 
 Why are we here?
 That is not a valid question. If we would not be here, we would not ask that question.
-
-
-# challenges
 
 Are you smart?|Are you a smart? Are you genius
 I am super-smart!
