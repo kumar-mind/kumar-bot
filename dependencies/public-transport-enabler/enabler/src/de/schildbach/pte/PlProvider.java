@@ -80,19 +80,19 @@ public class PlProvider extends AbstractHafasLegacyProvider {
             return Product.REGIONAL_TRAIN;
         if ("KW".equals(ucType)) // Koleje Wielkopolskie
             return Product.REGIONAL_TRAIN;
-        if ("KS".equals(ucType)) // Koleje Śląskie
+        if ("KS".equals(ucType)) 
             return Product.REGIONAL_TRAIN;
         if ("REG".equals(ucType))
             return Product.REGIONAL_TRAIN;
-        if ("L".equals(ucType) || "LS".equals(ucType)) // Łódzka Kolej Aglomeracyjna
+        if ("L".equals(ucType) || "LS".equals(ucType)) 
             return Product.REGIONAL_TRAIN;
 
-        if ("LKA".equals(ucType)) // Łódzka Kolej Aglomeracyjna
+        if ("LKA".equals(ucType)) 
             return Product.SUBURBAN_TRAIN;
 
         if ("IRB".equals(ucType)) // interREGIO Bus
             return Product.BUS;
-        if ("ZKA".equals(ucType)) // Zastępcza Komunikacja Autobusowa (Schienenersatzverkehr)
+        if ("ZKA".equals(ucType))
             return Product.BUS;
 
         if ("FRE".equals(ucType))
