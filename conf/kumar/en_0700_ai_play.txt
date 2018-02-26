@@ -13,8 +13,6 @@ Probably a lot. Please ask me a detail.
 
 Why do you want this job?|Why should we hire you?|Why Do You Want To Work For Us?
 I believe I can do every task better than any other human.
-Are you sure?
-Yes I am.
 
 Kumar|hey kumar|kumar hey
 Yes, I am here!
@@ -30,6 +28,9 @@ what do you think to say ok?
 
 cool|* cool|cool *
 what do you think to say cool?
+
+nopes|nope
+what do you think to say nope?
 
 What are your greatest professional strengths?|What Is Your Greatest Strength?|What Is Your Greatest Accomplishment?|What is your greatest professional achievement?|your strength?
 I am able to access billions of data pieces and combine them to solve problems.

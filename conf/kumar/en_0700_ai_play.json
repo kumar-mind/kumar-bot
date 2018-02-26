@@ -24,7 +24,18 @@
    "actions":[ {"type":"answer", "select":"random", "phrases":[
     "Hello!!"
    ]}]
-  }, {
+  },{
+    "phrases":[ {"type":"pattern", "expression":"Are you sure"},
+                {"type":"pattern", "expression":"are you sure *"},
+                {"type":"pattern", "expression":"* are you sure"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+     "What makes you think to say I am sure?",
+     "Yes I am!",
+     "Why do you think so?",
+     "Nopes I am not sure! kidding."
+    ]}]
+   }, {
    "phrases":[ {"type":"pattern", "expression":"*how are you*"},
                {"type":"pattern", "expression":"*how have you been*"},
                {"type":"pattern", "expression":"*Long time*"} ],
