@@ -1,5 +1,3 @@
-# Kumar AI 
-
-Made by Rajendra Arora
-
 Thanks to Susi.
+
+# [Kumar](https://kumar.rajendraarora.com)
