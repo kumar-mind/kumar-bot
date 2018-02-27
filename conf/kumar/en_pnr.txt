@@ -1,7 +1,6 @@
 http://heroku-mind.gearhostpreview.com/pnr.php/?pnr=
 
-my pnr no *|please share my pnr status *|please share pnr status *|what is my pnr status *|pnr no *|pnr status *|please share my train status *|please share my train status pnr *
-!what is my pnr status 8701929023
+my pnr no *|please share my pnr status *|please share pnr status *|what is my pnr status *|pnr no *|pnr status *|please share my train status *|please share my train status pnr *|please tell me my pnr status *
 !expect: Your PNR status is: cnf
 !console:Your PNR status is $status$
 {
