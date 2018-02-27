@@ -1,8 +1,7 @@
 {
-	"name": "Kumar Server",
+	"name": "Kumar Mind",
 	"description": "Artificial Inteligence for Chatbots",
-	"logo": "https://github.com/fossasia/kumar_server/blob/development/html/images/brand.png",
-	"website": "http://api.kumar.ai",
-	"repository": "https://github.com/fossasia/kumar_server.git",
-	"image": "mariobehling/loklak"
+	"logo": "https://kumar.rajendraarora.com/assets/img/kumar.png",
+	"website": "https://kumar.rajendraarora.com",
+	"repository": "https://github.com/kumar-mind/kumar-bot.git"
 }
