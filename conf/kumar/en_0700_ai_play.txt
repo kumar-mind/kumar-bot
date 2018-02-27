@@ -23,6 +23,9 @@ Don't use abusive word please.
 really *|* really
 yes I am!
 
+I don't need any help|I don't need help|no need help|no need any help
+Sounds good!
+
 ok|okay|k
 what do you think to say ok?
 
