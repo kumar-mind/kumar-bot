@@ -1,0 +1,11 @@
+http://heroku-mind.gearhostpreview.com/pnr.php/?pnr=
+
+my pnr no *|please share my pnr status *|please share pnr status *|what is my pnr status *|pnr no *|pnr status *|please share my train status *|please share my train status pnr *
+!what is my pnr status 8701929023
+!expect: Your PNR status is: cnf
+!console:Your PNR status is $status$
+{
+"url":"http://heroku-mind.gearhostpreview.com/pnr.php/?pnr=$1$",
+"path":"$.status_category[0]"
+}
+eol
