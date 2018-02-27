@@ -1,0 +1,9 @@
+Acronym of *|* Acronym|Acronym *|Acronym for *|What is the Acronym of *|Tell me the Acronym of *| find Acronym of *| search Acronym of *| look up Acronym of *| do you know Acronym of *| give me Acronym of *|full form of *|what is the full form of *|* full form
+!example:Acronym of NASA
+!expect:National Aeronautics and Space Administration
+!console:$lf$
+{
+"url":"http://www.nactem.ac.uk/software/acromine/dictionary.py?sf=$1$",
+"path":"$.[0].lfs[0]"
+}
+eol
