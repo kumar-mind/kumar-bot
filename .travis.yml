@@ -11,6 +11,7 @@ env:
       - $HOME/.gradle/caches/
       - $HOME/.gradle/wrapper/
   script:
+    - chmod +x gradlew
     - gradle assemble
     - gradle clean
     - ./bin/start.sh -Idn
