@@ -20,7 +20,7 @@ Yes, I am here!
 fuck you|fuck|* fucker|fuck *
 Don't use abusive word please.
 
-really *|* really
+really *|* really|Are you stupid|stupid|Are you crazy|you crazy|you stupid
 yes I am!
 
 I don't need any help|I don't need help|no need help|no need any help
