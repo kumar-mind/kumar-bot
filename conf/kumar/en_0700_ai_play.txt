@@ -23,6 +23,9 @@ Don't use abusive word please.
 really *|* really|Are you stupid|stupid|Are you crazy|you crazy|you stupid
 yes I am!
 
+happy *|very very happy*|Wish you very *|Wish you a very *
+Same to you!
+
 I don't need any help|I don't need help|no need help|no need any help
 Sounds good!
 
