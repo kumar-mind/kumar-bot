@@ -26,6 +26,10 @@ yes I am!
 happy *|very very happy*|Wish you very *|Wish you a very *
 Same to you!
 
+who made you?|who created you? | please tell me who made you?| please tell me who created you? | tell me who made you?| tell me who created you? | can you tell me who made you?| can you tell me who created you? | could you tell me who made you?| could you tell me who created you? | * who made you | * who created you 
+!example:Who created you?
+Rajendra Arora! He is my brother who created me. He took the architecture from Susi and made me. 
+
 I don't need any help|I don't need help|no need help|no need any help
 Sounds good!
 
