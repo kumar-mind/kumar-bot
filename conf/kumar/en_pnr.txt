@@ -1,4 +1,4 @@
-my pnr no *|my pnr no is *|please share my pnr status *|please share pnr status *|what is my pnr status *|pnr no *|pnr status *|my pnr status *|please share my train status *|please share my train status pnr *|please tell me my pnr status *
+my pnr no *|my pnr no is *|please share my pnr status *|please share pnr status *|what is my pnr status *|pnr no *|pnr status *|my pnr status *|please share my train status *|please share my train status pnr *|please tell me my pnr status *|my pnr number *|pnr number *|pnr no *
 !expect: Your PNR status is: CNF and your seat number is B3, 54, PQ.
 !console:Your PNR status is $current_status$ and your seat number is $booking_status$.
 {
