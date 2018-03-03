@@ -168,7 +168,7 @@
       {"type":"pattern", "expression":"do you have the time"},
       {"type":"pattern", "expression":"do you have the time please"}
     ],
-    "process":[ {"type":"javascript", "expression":"new Date().toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })"} ],
+    "process":[ {"type":"javascript", "expression":"function format_time(date_obj){var hour=date_obj.getHours();var minute=date_obj.getMinutes();var amPM=(hour>11)?'pm':'am';if(hour>12){hour-=12}else if(hour==0){hour='12'}if(minute<10){minute='0'+minute}return hour+':'+minute+' '+amPM}format_time(new Date);"} ],
     "actions":[ {"type":"answer", "select":"random", "phrases":[
       "it is $!$"
     ]}]
