@@ -168,7 +168,7 @@
       {"type":"pattern", "expression":"do you have the time"},
       {"type":"pattern", "expression":"do you have the time please"}
     ],
-    "process":[ {"type":"javascript", "expression":"new Date().getMinutes() + ' minutes past ' + (Math.round(new Date().getHours() + (new Date().getTimezoneOffset() - $timezoneOffset$)/60))"} ],
+    "process":[ {"type":"javascript", "expression":"new Date().toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })"} ],
     "actions":[ {"type":"answer", "select":"random", "phrases":[
       "it is $!$"
     ]}]
