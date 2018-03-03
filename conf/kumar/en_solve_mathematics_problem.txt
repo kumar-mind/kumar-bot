@@ -1,6 +1,6 @@
 Can you solve *|solve *|do you know the solution *|can you please solve*|can you solve *|solve mathematics problem *|mathematics problem *|solve mathematics *|solve mathematics problem *|solve equation *|solve calculation *|calculation *
 !console:Nice! I have found this solution $plaintext$
 {
-"url":"http://api.wolframalpha.com/v2/query?appid=9XE74Y-2GQ5JEJ749&input=border%20with%20$1$&output=JSON",
+"url":"http://api.wolframalpha.com/v2/query?appid=9XE74Y-2GQ5JEJ749&input=solve%20$1$&output=JSON",
 "path":"$.queryresult.pods[2].subpods[0].img"
 }
