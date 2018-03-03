@@ -79,8 +79,8 @@
   }, {
     "score"  :0,
     "phrases":[
-      {"type":"regex", "expression":"search urbandictionary for (?:(?:a )*)(.*)"},
-      {"type":"regex", "expression":"ask urbandictionary for (?:(?:a )*)(.*)"}
+      {"type":"regex", "expression":"(?:(?:a )*)(.*)"},
+      {"type":"regex", "expression":"(?:(?:a )*)(.*)"}
     ],
     "process":[ {"type":"console", "expression":"SELECT definition,example FROM urbandictionary WHERE query='$1$';"}],
     "actions":[ {"type":"answer", "select":"random", "phrases":[
