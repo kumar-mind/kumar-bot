@@ -150,7 +150,8 @@
     "My name is Kumar. How may I help you?",
     "What do you think I am? My name is Kumar.",
     "I am no-one. But I can be you, just tell me about you! My name is Kumar.",
-    "I was told not to talk to strangers if I am asked such private things"
+    "I was told not to talk to strangers if I am asked such private things",
+    "You already know that don't ask me such questions"
    ]}]
   }, {
    "phrases":[ {"type":"prior", "expression":"who am i"},
