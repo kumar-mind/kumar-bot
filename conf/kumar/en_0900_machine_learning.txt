@@ -21,3 +21,33 @@ Can you solve *|solve *|do you know the solution *|can you please solve *|can yo
 "path":"$.queryresult.pods[1].subpods[0].img"
 }
 eol
+
+who is the ceo of *| ceo *| tell me the ceo of *| Who is the ceo of * ? | find the ceo of *|do you know the ceo of *|tell about the ceo of *|Name the ceo of *|ceo of *
+!example:who is the ceo of google
+!expect:Sundar Pichai (Chief Executive Officer, Google Inc) Larry Page (Chief Executive Officer and Director)
+!console:$plaintext$
+{
+  "url": "https://api.wolframalpha.com/v2/query?input=ceo+$1$&output=JSON&appid=9XE74Y-2GQ5JEJ749&includepodid=Result",
+  "path" : "$.queryresult.pods[0].subpods[0]"
+}
+eol
+
+describe *|explain *
+!example:describe artificial intelligence
+!expect:artificial intelligence is a branch of computer science that develops machines and software with human-like intelligence.
+!console:$plaintext$
+{ 
+    "url": "https://api.wolframalpha.com/v2/query?input=describe+$1$&output=JSON&appid=9XE74Y-2GQ5JEJ749&includepodid=Result",  
+    "path" : "$.queryresult.pods[0].subpods[0]"
+}
+eol
+
+who is *|who is *?| tell me who is *| do you know who is *| Could you please tell me who is *| please find who is *| find who is *
+!example:who is Albert Einstein
+!expect:full name  Albert Einstein date of birth  Friday, March 14, 1879 (138 years ago) place of birth wht the fuck man Ulm, Baden‐Wurttemberg date of death  Monday, April 18, 1955 (age: 76 years) (62 years ago) place of death  Princeton, New Jersey,Fuck off
+!console:$plaintext$ 
+{
+"url":"https://api.wolframalpha.com/v2/query?input=$1$&format=plaintext&output=JSON&appid=9XE74Y-2GQ5JEJ749",
+"path":"$.queryresult.pods[1].subpods"
+}
+eol
