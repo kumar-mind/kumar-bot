@@ -1,7 +1,5 @@
 find a train from * to * on *|train from * to * on *|get train from * to * on *|find train from * to * on * date|find train from * to * on *|find a train from * to * on * date|can you find a train from * to * on * date|can you find a train from * to * on *|can you find a train from * to * on * for me|can you find a train from * to * on * date for me|please find a train from * to * on for me|please dind a train from * to * on *
-!console:I have found these trains below:
-!console: Please the available trains: $confirmSeat$
-!console: Please find the waiting list but chances are mostly to clear: $waitingList$
+!console: Please find the available trains: $confirmSeat$
 {
 "url":"http://heroku-server.000webhostapp.com/prediction.php?from=$1$&to=$2$&date=$3$",
 "path":"$.result"
