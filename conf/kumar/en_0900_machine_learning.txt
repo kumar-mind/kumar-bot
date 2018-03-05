@@ -13,9 +13,11 @@ find a train from * to * on *|train from * to * on *|get train from * to * on *|
 eol
 
 Can you solve *|solve *|do you know the solution *|can you please solve *|can you solve *|solve mathematics problem *|mathematics problem *|solve mathematics *|solve mathematics problem *|solve equation *|solve calculation *|calculation *|find a solution *|find solution *|find a solution for me *|find solution * for me
+!example:solve x=y+2 where y = 3 
+!expect:Please find my solution: x = 5
 !console:Please find my solution: $alt$
 {
 "url":"http://api.wolframalpha.com/v2/query?appid=9XE74Y-2GQ5JEJ749&input=solve+$1$&output=JSON",
-"path":"$.queryresult.pods[2].subpods[0].img"
+"path":"$.queryresult.pods[1].subpods[0].img"
 }
 eol
