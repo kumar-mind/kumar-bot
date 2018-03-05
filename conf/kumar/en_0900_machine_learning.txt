@@ -31,3 +31,13 @@ who is the ceo of *| ceo *| tell me the ceo of *| Who is the ceo of * ? | find t
   "path" : "$.queryresult.pods[0].subpods[0]"
 }
 eol
+
+describe *|explain *
+!example:describe artificial intelligence
+!expect:artificial intelligence is a branch of computer science that develops machines and software with human-like intelligence.
+!console:$plaintext$
+{ 
+    "url": "https://api.wolframalpha.com/v2/query?input=describe+$1$&output=JSON&appid=9XE74Y-2GQ5JEJ749&includepodid=Result",  
+    "path" : "$.queryresult.pods[0].subpods[0]"
+}
+eol
