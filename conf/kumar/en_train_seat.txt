@@ -4,5 +4,5 @@ find a train from * to * on *|train from * to * on *|get train from * to * on *|
 !console: Please find the waiting list but chances are mostly to clear: $waitingList$
 {
 "url":"http://heroku-server.000webhostapp.com/prediction.php?from=$1$&to=$2$&date=$3$",
-"path":"$.[0]"
+"path":"$.result"
 }
