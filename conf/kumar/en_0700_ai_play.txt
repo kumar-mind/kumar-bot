@@ -23,6 +23,9 @@ ok!
 Kumar|hey kumar|kumar hey|hey
 Yes, I am here!
 
+where are you *|where are you?
+I am on Internet.
+
 fuck you|fuck|* fucker|fuck *
 Don't use abusive word please.
 
