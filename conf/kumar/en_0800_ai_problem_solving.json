@@ -1,6 +1,26 @@
 {"rules":[
     {
         "phrases":[
+          {"type":"pattern", "expression":"are you okay"},
+          {"type":"pattern", "expression":"are you okay *"},
+          {"type":"pattern", "expression":"* are you okay *"},
+          {"type":"pattern", "expression":"are you good"},
+          {"type":"pattern", "expression":"* are you good"},
+          {"type":"pattern", "expression":"is your health good"},
+          {"type":"pattern", "expression":"how is your health"},
+          {"type":"pattern", "expression":"your health status"},
+          {"type":"pattern", "expression":"health status"},
+          {"type":"pattern", "expression":"status health"},
+          {"type":"pattern", "expression":"status for health"},
+          {"type":"pattern", "expression":"kumar status"},
+          {"type":"pattern", "expression":"health concern *"}
+        ],
+        "actions":[ {"type":"answer", "select":"random", "phrases":[
+          "My health status is good. I am 100% working!"
+        ]}]
+    },
+    {
+        "phrases":[
           {"type":"pattern", "expression":"stop playing music"},
           {"type":"pattern", "expression":"stop it"},
           {"type":"pattern", "expression":"stop music *"},
