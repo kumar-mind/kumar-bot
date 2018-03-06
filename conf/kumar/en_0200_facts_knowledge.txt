@@ -14,6 +14,8 @@ temperature in *
 }
 eol
 
+I don't know|I don't know *|I do not know|I do not know *|
+You should know that.
 
 hashtags * *
 !console:The following hashtags are common with $1$: $k1$ ($v1$ times), $k2$ ($v2$ times), $k3$ ($v3$ times)
