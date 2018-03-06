@@ -29,6 +29,9 @@ I am on Internet.
 fuck you|fuck|* fucker|fuck *
 Don't use abusive word please.
 
+sex|* sex
+What kind of moron are you?
+
 really *|* really|Are you stupid|stupid|Are you crazy|you crazy|you stupid
 yes I am!
 
