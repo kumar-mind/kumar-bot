@@ -1,0 +1,7 @@
+Play a song
+!console:Playing song $name$ $play$
+{
+  "url": "https://heroku-server.000webhostapp.com/play-mp3.php",
+  "path" : "$"
+}
+eol
