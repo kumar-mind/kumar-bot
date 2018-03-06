@@ -31,7 +31,6 @@ public class KumarMemory {
             "I don't know how to answer this. Here is a web search result:",
             "You can ask me anything, but not that :)",
             "Oh sorry, I don't understand what you say. Please ask something else!",
-            "Das weiss ich leider nicht.",
             "I don't know."
     };
     private final static String[] donotremoveunanswered = new String[] {

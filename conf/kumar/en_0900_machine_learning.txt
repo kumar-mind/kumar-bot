@@ -2,6 +2,14 @@ you are so *
 why I am so $1$?
 eol
 
+you are very *
+why I am very $1$?
+eol
+
+you are too *
+why I am too $1$?
+eol
+
 find a train from * to * on *|train from * to * on *|get train from * to * on *|find train from * to * on * date|find train from * to * on *|find a train from * to * on * date|can you find a train from * to * on * date|can you find a train from * to * on *|can you find a train from * to * on * for me|can you find a train from * to * on * date for me|please find a train from * to * on for me|please dind a train from * to * on *
 !example:find a train from kota to bdts on 19th march 
 !expect:Please find the available trains xyz
