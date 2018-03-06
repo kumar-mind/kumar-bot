@@ -19,10 +19,11 @@
   }, {
    "phrases":[ {"type":"pattern", "expression":"hello*"},
                {"type":"pattern", "expression":"hey*"},
-               {"type":"pattern", "expression":"hi*"}
+               {"type":"pattern", "expression":"hi*"},
+               {"type":"pattern", "expression":"hi"}
    ],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
-    "Hello!!"
+    "Hello!"
    ]}]
   },{
     "phrases":[ {"type":"pattern", "expression":"Are you sure"},
