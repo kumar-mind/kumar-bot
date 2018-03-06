@@ -1,2 +1,95 @@
 {"rules":[
+    {
+        "phrases":[
+          {"type":"pattern", "expression":"stop playing music"},
+          {"type":"pattern", "expression":"stop it"},
+          {"type":"pattern", "expression":"stop music *"},
+          {"type":"pattern", "expression":"stop music"},
+          {"type":"pattern", "expression":"can you please stop music *"},
+          {"type":"pattern", "expression":"can you please stop music"},
+          {"type":"pattern", "expression":"please stop playing music"},
+          {"type":"pattern", "expression":"can you stop the music *"},
+          {"type":"pattern", "expression":"can you stop the music"},
+          {"type":"pattern", "expression":"stop music playing"},
+          {"type":"pattern", "expression":"stop playing song"},
+          {"type":"pattern", "expression":"stop song *"},
+          {"type":"pattern", "expression":"stop song"},
+          {"type":"pattern", "expression":"can you please stop song *"},
+          {"type":"pattern", "expression":"can you please stop song"},
+          {"type":"pattern", "expression":"please stop playing song"},
+          {"type":"pattern", "expression":"can you stop the song *"},
+          {"type":"pattern", "expression":"can you stop the song"},
+          {"type":"pattern", "expression":"stop song playing"}
+        ],
+        "actions":[ {"type":"answer", "select":"random", "phrases":[
+          "music is stopped"
+        ]}]
+    },
+    {
+        "phrases":[
+          {"type":"pattern", "expression":"pause playing music"},
+          {"type":"pattern", "expression":"pause it"},
+          {"type":"pattern", "expression":"pause music *"},
+          {"type":"pattern", "expression":"pause music"},
+          {"type":"pattern", "expression":"pause the music *"},
+          {"type":"pattern", "expression":"pause the music"},
+          {"type":"pattern", "expression":"can you please pause music *"},
+          {"type":"pattern", "expression":"can you please pause music"},
+          {"type":"pattern", "expression":"can you please pause the music *"},
+          {"type":"pattern", "expression":"can you please pause the music"},
+          {"type":"pattern", "expression":"please pause playing music"},
+          {"type":"pattern", "expression":"can you pause the music *"},
+          {"type":"pattern", "expression":"can you pause the music"},
+          {"type":"pattern", "expression":"pause music playing"},
+          {"type":"pattern", "expression":"pause playing song"},
+          {"type":"pattern", "expression":"pause song *"},
+          {"type":"pattern", "expression":"pause song"},
+          {"type":"pattern", "expression":"pause the song *"},
+          {"type":"pattern", "expression":"pause the song"},
+          {"type":"pattern", "expression":"can you please pause song *"},
+          {"type":"pattern", "expression":"can you please pause song"},
+          {"type":"pattern", "expression":"can you please pause the song *"},
+          {"type":"pattern", "expression":"can you please pause the song"},
+          {"type":"pattern", "expression":"please pause playing song"},
+          {"type":"pattern", "expression":"can you pause the song *"},
+          {"type":"pattern", "expression":"can you pause the song"},
+          {"type":"pattern", "expression":"pause song playing"}
+        ],
+        "actions":[ {"type":"answer", "select":"random", "phrases":[
+          "music is paused"
+        ]}]
+    },{
+        "phrases":[
+          {"type":"pattern", "expression":"resume playing music"},
+          {"type":"pattern", "expression":"resume it"},
+          {"type":"pattern", "expression":"resume music *"},
+          {"type":"pattern", "expression":"resume music"},
+          {"type":"pattern", "expression":"resume the music *"},
+          {"type":"pattern", "expression":"resume the music"},
+          {"type":"pattern", "expression":"can you please resume music *"},
+          {"type":"pattern", "expression":"can you please resume music"},
+          {"type":"pattern", "expression":"can you please resume the music *"},
+          {"type":"pattern", "expression":"can you please resume the music"},
+          {"type":"pattern", "expression":"please resume playing music"},
+          {"type":"pattern", "expression":"can you resume the music *"},
+          {"type":"pattern", "expression":"can you resume the music"},
+          {"type":"pattern", "expression":"resume music playing"},
+          {"type":"pattern", "expression":"resume playing music"},
+          {"type":"pattern", "expression":"resume song *"},
+          {"type":"pattern", "expression":"resume song"},
+          {"type":"pattern", "expression":"resume the song *"},
+          {"type":"pattern", "expression":"resume the song"},
+          {"type":"pattern", "expression":"can you please resume song *"},
+          {"type":"pattern", "expression":"can you please resume song"},
+          {"type":"pattern", "expression":"can you please resume the song *"},
+          {"type":"pattern", "expression":"can you please resume the song"},
+          {"type":"pattern", "expression":"please resume playing song"},
+          {"type":"pattern", "expression":"can you resume the song *"},
+          {"type":"pattern", "expression":"can you resume the song"},
+          {"type":"pattern", "expression":"resume song playing"}
+        ],
+        "actions":[ {"type":"answer", "select":"random", "phrases":[
+          "music is resumed"
+        ]}]
+    }
 ]}
