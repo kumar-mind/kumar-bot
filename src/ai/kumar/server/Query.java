@@ -114,7 +114,7 @@ public class Query {
         response.setHeader("X-Robots-Tag",  "noindex,noarchive,nofollow,nosnippet");
         response.setCharacterEncoding("UTF-8");
         response.setStatus(HttpServletResponse.SC_OK);
-        response.setHeader("Access-Control-Allow-Origin", "*"); // enable CORS
+        response.setHeader("Access-Control-Allow-Origin", "https://kumar.rajendraarora.com"); // enable CORS
     }
     public int hashCode() {
         return qm.hashCode();
