@@ -118,7 +118,7 @@ public class MapServlet extends HttpServlet {
         PrintTool.print(map, 6, map.getHeight() - 6, 0, "(C) OPENSTREETMAP CONTRIBUTORS", -1, false, 100);
         
         // write image
-        response.addHeader("Access-Control-Allow-Origin", "*");
+        response.addHeader("Access-Control-Allow-Origin", "https://kumar.rajendraarora.com");
         RemoteAccess.writeImage(fileType, response, post, map);
         post.finalize();
     }

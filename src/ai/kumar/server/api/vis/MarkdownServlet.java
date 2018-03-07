@@ -175,7 +175,7 @@ public class MarkdownServlet extends HttpServlet {
         PrintTool.print(matrix, matrix.getWidth() - 6, matrix.getHeight() - 6, 0, "MADE WITH HTTP://KUMAR.AI", 1, false, 50);
         
         // write image
-        response.addHeader("Access-Control-Allow-Origin", "*");
+        response.addHeader("Access-Control-Allow-Origin", "https://kumar.rajendraarora.com");
         RemoteAccess.writeImage(fileType, response, post, matrix);
         post.finalize();
     }
