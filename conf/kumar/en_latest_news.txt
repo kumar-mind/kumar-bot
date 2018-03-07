@@ -1,4 +1,4 @@
-get news for me|get latest news|show me news|show news *|show me news|show some news|get news|get news of *|* news|* latest news|latest news of *|latest news *|* news today|* news *|news
+get news for me|get latest news|show me news|show me * news|show news *|show me news|show some news|get news|get news of *|* news|* latest news|latest news of *|latest news *|* news today|* news *|news
 !console:$description$
 {
   "url": "http://heroku-mind.gearhostpreview.com/play-mp3.php",
