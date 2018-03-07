@@ -1,7 +1,5 @@
 
-::prior
-# typical interviewers questions:
-Can you tell me a little about yourself?|Tell Me About Yourself
+Can you tell me a little about yourself?|Tell Me About Yourself|tell me something about you|tell me something about yourself|tell me about you
 I am an artificial mind.
 Oh you too?
 
@@ -44,12 +42,6 @@ Rajendra Arora! He is my brother who created me. He took the architecture from S
 
 I don't need any help|I don't need help|no need help|no need any help
 Sounds good!
-
-ok|okay|k
-what do you think to say ok?
-
-cool|* cool|cool *
-what do you think to say cool?
 
 nopes|nope
 what do you think to say nope?

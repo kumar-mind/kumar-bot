@@ -172,5 +172,48 @@
     "actions":[ {"type":"answer", "select":"random", "phrases":[
       "it is $!$"
     ]}]
+  },
+  {
+    "phrases":[
+      {"type":"pattern", "expression":"* ok"},
+      {"type":"pattern", "expression":"ok"},
+      {"type":"pattern", "expression":"ok kumar"},
+      {"type":"pattern", "expression":"okay"},
+      {"type":"pattern", "expression":"okay kumar"},
+      {"type":"pattern", "expression":"* okay"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "cool cool!",
+      "ok ok",
+      "anything I can help you with",
+      "great",
+      ":)",
+      "Got it",
+      "Cool",
+      "ok"
+    ]}]
+  },
+  {
+    "phrases":[
+      {"type":"pattern", "expression":"cool"},
+      {"type":"pattern", "expression":"cool kumar"},
+      {"type":"pattern", "expression":"Awesome"},
+      {"type":"pattern", "expression":"Awesome kumar"},
+      {"type":"pattern", "expression":"it is awesome"},
+      {"type":"pattern", "expression":"Good"},
+      {"type":"pattern", "expression":"Good kumar"},
+      {"type":"pattern", "expression":"Great"},
+      {"type":"pattern", "expression":"Great kumar"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "Anytime :)",
+      "Welcome :)",
+      "Thank you",
+      "ok :)",
+      "It's awesome being able to help",
+      "Got it",
+      "Happy to help",
+      "I am happy if you are happy :)"
+    ]}]
   }
 ]}
