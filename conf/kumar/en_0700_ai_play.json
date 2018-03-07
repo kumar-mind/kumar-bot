@@ -42,7 +42,7 @@
                {"type":"pattern", "expression":"*Long time*"} ],
    "actions":[ {"type":"answer", "select":"random", "phrases":[
     "Hey, I'm good! Thank you.",
-    "Hello! Im doing well, Thank you"
+    "I am good! :)"
    ]}]
   }, {
    "keys"   :["belief"],
