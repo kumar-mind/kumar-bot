@@ -14,16 +14,6 @@ you are really *
 why I am too $1$?
 eol
 
-find a train from * to * on *|train from * to * on *|get train from * to * on *|find train from * to * on * date|find train from * to * on *|find a train from * to * on * date|can you find a train from * to * on * date|can you find a train from * to * on *|can you find a train from * to * on * for me|can you find a train from * to * on * date for me|please find a train from * to * on for me|please dind a train from * to * on *
-!example:find a train from kota to bdts on 19th march 
-!expect:Please find the available trains xyz
-!console:On $3$, from $1$ to $2$ $status$.
-{
-"url":"http://heroku-mind.gearhostpreview.com/prediction.php?from=$1$&to=$2$&date=$3$",
-"path":"$.result"
-}
-eol
-
 Can you solve *|solve *|do you know the solution *|can you please solve *|can you solve *|solve mathematics problem *|mathematics problem *|solve mathematics *|solve mathematics problem *|solve equation *|solve calculation *|calculation *|find a solution *|find solution *|find a solution for me *|find solution * for me|calculate *|calculate sum *
 !example:solve x=y+2 where y = 3 
 !expect:Please find my solution: x = 5
