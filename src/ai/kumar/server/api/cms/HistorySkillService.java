@@ -53,6 +53,7 @@ public class HistorySkillService extends AbstractAPIHandler implements APIHandle
         response.setHeader("Cache-Control", "no-cache, no-store, must-revalidate"); // HTTP 1.1.
         response.setHeader("Pragma", "no-cache"); // HTTP 1.0.
         response.setDateHeader("Expires", 0); // Proxies.
+        response.setHeader("Access-Control-Allow-Origin", "*"); // enable CORS
     }
 
     @Override
