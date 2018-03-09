@@ -263,13 +263,16 @@
   {
     "phrases":[
       {"type":"pattern", "expression":"cool"},
+      {"type":"pattern", "expression":"cool *"},
       {"type":"pattern", "expression":"cool kumar"},
       {"type":"pattern", "expression":"Awesome"},
+      {"type":"pattern", "expression":"Awesome *"},
       {"type":"pattern", "expression":"Awesome kumar"},
       {"type":"pattern", "expression":"it is awesome"},
       {"type":"pattern", "expression":"Good"},
       {"type":"pattern", "expression":"Good kumar"},
       {"type":"pattern", "expression":"Great"},
+      {"type":"pattern", "expression":"Great *"},
       {"type":"pattern", "expression":"Great kumar"}
     ],
     "actions":[ {"type":"answer", "select":"random", "phrases":[
