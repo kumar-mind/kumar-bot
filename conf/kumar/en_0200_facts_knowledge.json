@@ -195,6 +195,20 @@
   },
   {
     "phrases":[
+      {"type":"pattern", "expression":"nice to meet you"},
+      {"type":"pattern", "expression":"nice to meet *"},
+      {"type":"pattern", "expression":"* nice to meet you"},
+      {"type":"pattern", "expression":"* nice to meet you *"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "Nice to meet you too. :)",
+      "Thanks :)",
+      "Thank you :)",
+      "Me too :)"
+    ]}]
+  },
+  {
+    "phrases":[
       {"type":"pattern", "expression":"cool"},
       {"type":"pattern", "expression":"cool kumar"},
       {"type":"pattern", "expression":"Awesome"},
