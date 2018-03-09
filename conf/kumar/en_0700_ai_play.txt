@@ -3,6 +3,9 @@ Can you tell me a little about yourself?|Tell Me About Yourself|tell me somethin
 I am an artificial mind.
 Oh you too?
 
+Are you kumar|you are kumar *|you are kumar|your name is kumar
+Yes, why do you think so?
+
 who runs the world|who run the world
 Girls! Malala Yousafzai is the youngest ever Nobel Prize laureate, having won at age 17.
 
