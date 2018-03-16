@@ -1,5 +1,5 @@
 * bookmyshow|bookmyshow *
-!console:I have found below posts from Bookmyshow: $result$
+!console:I have found below posts from Bookmyshow: $response$
 {
 "url":"http://heroku-mind.gearhostpreview.com/we-are-bookmyshow-api.php",
 "path":"$"
