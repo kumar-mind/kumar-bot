@@ -25,6 +25,12 @@
           {"type":"pattern", "expression":"stop it"},
           {"type":"pattern", "expression":"stop music *"},
           {"type":"pattern", "expression":"stop music"},
+          {"type":"pattern", "expression":"stop * music"},
+          {"type":"pattern", "expression":"stop * song"},
+          {"type":"pattern", "expression":"* stop * music"},
+          {"type":"pattern", "expression":"* stop * song"},
+          {"type":"pattern", "expression":"stop this music"},
+          {"type":"pattern", "expression":"stop this song"},
           {"type":"pattern", "expression":"can you please stop music *"},
           {"type":"pattern", "expression":"can you please stop music"},
           {"type":"pattern", "expression":"please stop playing music"},
@@ -53,6 +59,8 @@
           {"type":"pattern", "expression":"pause music"},
           {"type":"pattern", "expression":"pause the music *"},
           {"type":"pattern", "expression":"pause the music"},
+          {"type":"pattern", "expression":"pause this song"},
+          {"type":"pattern", "expression":"pause this music"},
           {"type":"pattern", "expression":"can you please pause music *"},
           {"type":"pattern", "expression":"can you please pause music"},
           {"type":"pattern", "expression":"can you please pause the music *"},
@@ -97,6 +105,8 @@
           {"type":"pattern", "expression":"resume playing music"},
           {"type":"pattern", "expression":"resume song *"},
           {"type":"pattern", "expression":"resume song"},
+          {"type":"pattern", "expression":"resume this song"},
+          {"type":"pattern", "expression":"resume this music"},
           {"type":"pattern", "expression":"resume the song *"},
           {"type":"pattern", "expression":"resume the song"},
           {"type":"pattern", "expression":"can you please resume song *"},
@@ -113,3 +123,4 @@
         ]}]
     }
 ]}
+

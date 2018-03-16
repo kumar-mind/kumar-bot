@@ -195,14 +195,84 @@
   },
   {
     "phrases":[
+      {"type":"pattern", "expression":"nice to meet you"},
+      {"type":"pattern", "expression":"nice to meet *"},
+      {"type":"pattern", "expression":"* nice to meet you"},
+      {"type":"pattern", "expression":"* nice to meet you *"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "Nice to meet you too. :)",
+      "Thanks :)",
+      "Thank you :)",
+      "Me too :)"
+    ]}]
+  },
+  {
+    "phrases":[
+      {"type":"pattern", "expression":"Good morning Kumar"},
+      {"type":"pattern", "expression":"* good morning"},
+      {"type":"pattern", "expression":"* good morning kumar"},
+      {"type":"pattern", "expression":"Good morning"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "Good morning! How can I help you?",
+      "Good morning!",
+      "Good morning to you too :)"
+    ]}]
+  },
+  {
+    "phrases":[
+      {"type":"pattern", "expression":"Good afternoon Kumar"},
+      {"type":"pattern", "expression":"* good afternoon"},
+      {"type":"pattern", "expression":"* good afternoon kumar"},
+      {"type":"pattern", "expression":"Good afternoon"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "Good afternoon! How can I help you?",
+      "Good afternoon!",
+      "Good afternoon to you too :)",
+      "Hello :) What can I do for you this fine afternoon?"
+    ]}]
+  },
+  {
+    "phrases":[
+      {"type":"pattern", "expression":"Good night Kumar"},
+      {"type":"pattern", "expression":"* good night"},
+      {"type":"pattern", "expression":"* good night kumar"},
+      {"type":"pattern", "expression":"Good night"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "Good night! I will be waking up for you",
+      "Good Night! Have a good sleep :)",
+      "Good night! Sleep well",
+      "Good night! You can ask for help anytime."
+    ]}]
+  },
+  {
+    "phrases":[
+      {"type":"pattern", "expression":"What can you do"},
+      {"type":"pattern", "expression":"* what can you do"},
+      {"type":"pattern", "expression":"what can you do *"}
+    ],
+    "actions":[ {"type":"answer", "select":"random", "phrases":[
+      "I can do anything. Just ask a question",
+      "Just ask a questions, I can do much more",
+      "Anything for you :)"
+    ]}]
+  },
+  {
+    "phrases":[
       {"type":"pattern", "expression":"cool"},
+      {"type":"pattern", "expression":"cool *"},
       {"type":"pattern", "expression":"cool kumar"},
       {"type":"pattern", "expression":"Awesome"},
+      {"type":"pattern", "expression":"Awesome *"},
       {"type":"pattern", "expression":"Awesome kumar"},
       {"type":"pattern", "expression":"it is awesome"},
       {"type":"pattern", "expression":"Good"},
       {"type":"pattern", "expression":"Good kumar"},
       {"type":"pattern", "expression":"Great"},
+      {"type":"pattern", "expression":"Great *"},
       {"type":"pattern", "expression":"Great kumar"}
     ],
     "actions":[ {"type":"answer", "select":"random", "phrases":[
