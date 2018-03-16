@@ -1,0 +1,10 @@
+* bookmyshow|bookmyshow *
+!console:I have found below posts from Bookmyshow: $result$
+{
+"url":"http://heroku-mind.gearhostpreview.com/we-are-bookmyshow-api.php",
+"path":"$"
+}
+eol
+
+what is bookmyshow|bookmyshow
+BookMyShow is an aggregator service for the entertainment industry whereby they can assist you with information and ticketing for movies and various other events across many cities all over India.
