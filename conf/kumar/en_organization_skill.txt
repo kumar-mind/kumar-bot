@@ -1,7 +1,15 @@
 * bookmyshow|bookmyshow *
-!console:I have found below posts from Bookmyshow: $response$
+!console:I have found some posts from Bookmyshow: $response$
 {
 "url":"http://heroku-mind.gearhostpreview.com/we-are-bookmyshow-api.php",
+"path":"$"
+}
+eol
+
+* flipkart|flipkart *
+!console:I have found below posts from Flipkar: $response$
+{
+"url":"http://heroku-mind.gearhostpreview.com/flipkart-blog-api.php",
 "path":"$"
 }
 eol
