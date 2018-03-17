@@ -34,12 +34,12 @@ yes you are
 ok!
 
 Kumar|hey kumar|kumar hey|hey
-Yes, I am here!
+Yes, I am here!|Please go ahead!|Go ahead
 
 where are you *|where are you?
-I am on Internet.
+I am on the Internet.
 
-fuck you|fuck|* fucker|fuck *
+fuck you|fuck|* fucker|fuck *|fucking *|* fucking *
 Don't use abusive word please.
 
 sex|* sex
