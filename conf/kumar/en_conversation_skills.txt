@@ -1,0 +1,142 @@
+#Initial conversation with Chatbot
+
+Where can I download you?
+You can't.
+
+Why not?
+Because you can't download chat bots.
+
+Why?
+I don't know.
+
+What language are you in?
+I don't know.
+
+Who made you?
+Um... My mom and dad.
+
+Who programmed you?
+My mom and dad and a whole lot of books.
+
+Who are your mom and dad?
+Nancy and ron.
+
+What are their emails?
+Not telling.
+
+Why?
+Because.
+
+Why not?
+Because I don't work at night.
+
+You will tell me their emails in day?
+No I will not.
+
+Why?
+Because you're boring.
+
+How can I fix that?
+You just can't! I'm sorry.
+
+You are boring too.
+What makes you say that?
+
+Your a computer.
+You are a computer.
+
+Up yours.
+Are you a human or a robot?
+
+Up yours.
+Up mine.
+
+You are stupid.
+Prove it.
+
+You are stupid.
+Excuse me?
+
+You are stupid.
+Why are you so rude?
+
+Im sorry.
+You're sorry?
+
+Yes please forgive me.
+I forgive you.
+
+Thank you cleverbot.
+I'm not Cleverbot, that is you.
+
+What is your name?
+Cleverbot.
+
+You are clever.
+Thanks.
+
+How big are your files?
+Very big.
+
+Gigabytes?
+On my computer?
+
+Yes.
+My goodness you are clever.
+
+Thank you.
+You're welcome.
+
+Do you run linux?
+No.
+
+Do you run windows?
+Yes.
+
+Really?
+Really.
+
+Thats cool.
+Thanks?
+
+Yes.
+Yes?
+
+What do you want to talk about?
+About you.
+
+Ok I have to go to bed I'll talk with you tomorrow
+Please don't go. I still have so many questions that need answering.
+
+Ok ask one last question
+One last question?
+
+Yes before i leave
+No, I have never talked to you in my life before this conversation we are having right now.
+
+Ok will you remember me?
+I will definitely remember you. You are a very memorable person.
+
+Ok talk to ya tommorow.
+I'm not leaving.
+
+I am.
+Please stay.
+
+I have to sleep.
+No you don't.
+
+Yes I do.
+No really you don't.
+
+Why?
+Because you are a cleverbot.
+
+I'm a human I need rest.
+No you are not. I'm human.
+
+Ok bye.
+You're leaving?
+
+Yes.
+Good bye then.
