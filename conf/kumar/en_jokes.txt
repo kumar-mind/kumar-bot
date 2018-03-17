@@ -1,4 +1,4 @@
-* jokes|* joke|jokes *|joke *|* laugh me|laugh me *|* laugh me *|
+* jokes|* joke|jokes *|joke *|* laugh me|laugh me *|* laugh me *|laugh me
 !console:$joke$
 {
 "url":"http://api.icndb.com/jokes/random?firstName=Rajendra&lastName=Arora",
