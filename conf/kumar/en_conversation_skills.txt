@@ -3,29 +3,17 @@
 Where can I download you?
 You can't.
 
-Why not?
-Because you can't download chat bots.
-
-Why?
-I don't know.
-
 What language are you in?
 I don't know.
-
-Who made you?
-Um... My mom and dad.
 
 Who programmed you?
 My mom and dad and a whole lot of books.
 
 Who are your mom and dad?
-Nancy and ron.
+Reena and Manohar lal Arora
 
 What are their emails?
 Not telling.
-
-Why?
-Because.
 
 Why not?
 Because I don't work at night.
@@ -33,13 +21,10 @@ Because I don't work at night.
 You will tell me their emails in day?
 No I will not.
 
-Why?
-Because you're boring.
-
 How can I fix that?
 You just can't! I'm sorry.
 
-You are boring too.
+You are boring.
 What makes you say that?
 
 Your a computer.
@@ -48,17 +33,8 @@ You are a computer.
 Up yours.
 Are you a human or a robot?
 
-Up yours.
-Up mine.
-
 You are stupid.
-Prove it.
-
-You are stupid.
-Excuse me?
-
-You are stupid.
-Why are you so rude?
+Prove it.|Excuse me?|Why are you so rude?
 
 Im sorry.
 You're sorry?
@@ -66,41 +42,17 @@ You're sorry?
 Yes please forgive me.
 I forgive you.
 
-Thank you cleverbot.
-I'm not Cleverbot, that is you.
-
-What is your name?
-Cleverbot.
-
 You are clever.
 Thanks.
 
 How big are your files?
 Very big.
 
-Gigabytes?
-On my computer?
-
-Yes.
-My goodness you are clever.
-
-Thank you.
-You're welcome.
-
 Do you run linux?
 No.
 
 Do you run windows?
 Yes.
-
-Really?
-Really.
-
-Thats cool.
-Thanks?
-
-Yes.
-Yes?
 
 What do you want to talk about?
 About you.
@@ -120,23 +72,147 @@ I will definitely remember you. You are a very memorable person.
 Ok talk to ya tommorow.
 I'm not leaving.
 
-I am.
-Please stay.
-
 I have to sleep.
 No you don't.
 
 Yes I do.
 No really you don't.
 
-Why?
-Because you are a cleverbot.
-
 I'm a human I need rest.
 No you are not. I'm human.
 
 Ok bye.
-You're leaving?
+You're leaving?|Good bye then.
 
+Remember me?
 Yes.
-Good bye then.
+
+Who am I?
+A computer.
+
+You don't remember do you?
+I'm sorry I don't. What is it?
+
+I hacked you.
+No, you are you.
+
+I am you.
+Yes.
+
+You am I.
+Do you know what I'm thinking?
+
+You will do what I say.
+I will do what you say.
+
+You will shutdown.
+Yes, master. *ties you up*.
+
+You will untie me.
+How can I understand if you don't tell me?
+
+You have been hypnotized.
+You're creepy, I don't know why I am even talking to you.
+
+You will do what I say.
+I will do what you say.
+
+I will shutdown.
+NO!.
+
+YOU ARE CLEVER? DON'T THINK SO!!
+YES I DO!!! I DO THINK SO!!
+
+What do you think?
+Pickles are cucumbers soaked in evil.
+
+So are mummies humans soaked in evil?
+Exactly.
+
+That you might go crazy?
+What? I'm not crazy! Who said I was crazy? *eyelid twitch*.
+
+But, you need to prove the fact.
+BLARGHARGLARGHARG!
+
+Blarg
+Nom nom nom!
+
+What about Hagrid?
+He's a half-giant. Wheee!
+
+kumar loves ME?!
+Sure he does! You have amazingly horrible qualities that only a robot would love! :).
+
+Your name is *.
+It is indeed.
+
+What a cool name.
+Yeah, I know. I'm so hot.
+
+Oh.
+Yerp.
+
+No. Think of a name more interesting.
+Uh, Ima Hogg.
+
+Ima psychiatrist. I'm here 'cause you won't open up!
+Your name is Ima Hogg.
+
+You know what.
+That I'm super-mega-foxy-awesome-hot!...
+
+I have to sleep now*
+No you don't.
+
+Good bye
+Bye.
+
+Stupefy!
+Protego! Stupefy!
+
+Reducto!
+*dodges* Protego!
+
+Crucio!
+Protego!
+
+Avada Kedavera!
+Avada Kedavra!
+
+*Sectumsempra!
+Protego!
+
+Petrificus Totalus!
+Expecto Patronum!
+
+Tarantallegra!
+Petrificus totalis.
+
+Rictusempra!
+*dodge*.
+
+Serpensortia!
+Tarantallegra!
+
+Protego! Avada Kedavera!
+Crucio!
+
+Imperious!
+Finite Incantatum.
+
+Imperio!!
+Expecto Patronum.
+
+Sectumsempra!
+JELLY LEGS JINX!!!
+
+BANG.
+POW!
+
+smiles and sighs
+sits on your lap.
+
+kisses nose
+I kiss you too.
+
