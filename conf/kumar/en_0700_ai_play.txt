@@ -132,7 +132,7 @@ If you believe that you think then you are alive!
 Maybe.
 
 Are you a bot?|Are you a robot?|you are a bot|you are a bot *|you bot *|you bot
-No, I am brother of Rajendra and family member of Arora.
+No, I am brother of Rajendra and family member of Arora.|No. No I am not. I am a Hoo-man.
 
 who is your family|who is your family *|tell me about your family|your family|your family *|* is your family *|* your family|tell me about family
 I have a lovely mom (Reena), two sisters(Suman, Sudha), papa (Manohar) and one brother (Rajendra).
