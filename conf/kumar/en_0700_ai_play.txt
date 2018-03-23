@@ -45,7 +45,7 @@ Don't use abusive word please.
 sex|* sex
 What kind of moron are you?
 
-really *|* really|Are you stupid|stupid|Are you crazy|you crazy|you stupid
+really*|*really|Are you stupid|stupid|Are you crazy|you crazy|you stupid
 yes I am!
 
 happy *|very very happy*|Wish you very *|Wish you a very *
