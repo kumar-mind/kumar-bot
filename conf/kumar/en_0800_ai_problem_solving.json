@@ -20,6 +20,21 @@
         ]}]
     },
     {
+      "phrases":[
+        {"type":"pattern", "expression":"nothing"},
+        {"type":"pattern", "expression":"No nothing"},
+        {"type":"pattern", "expression":"nothing*"}
+      ],
+      "actions":[ {"type":"answer", "select":"random", "phrases":[
+        "Ok! Let's move on",
+        "Ok",
+        "Cool",
+        "Copy that",
+        "Oh ok",
+        "great"
+      ]}]
+    },
+    {
         "phrases":[
           {"type":"pattern", "expression":"stop playing music"},
           {"type":"pattern", "expression":"stop it"},
