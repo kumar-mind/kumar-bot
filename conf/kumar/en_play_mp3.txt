@@ -1,13 +1,5 @@
-Play a song|play music|play music for me|play song|play song for me|play a song for me|play a good song for me|play a good music for me|play good song for me|play good music for me|sing a music|sing a song|sing a good song|sing a good music|can you please play music *|* music for me*|*music for me|* song for me *|can you play a song for me *|can you play a song for me|* good song for me *|* play a music for me *|* play a song for me *|play next music|play next song *|play next song|play next music *|play new song *|play new song|play new music|play new music *|play another one|play new one|play next one|play * song
+मेरे लिए एक गाना बजाओ|Play a song|play music|play music for me|play song|play song for me|play a song for me|play a good song for me|play a good music for me|play good song for me|play good music for me|sing a music|sing a song|sing a good song|sing a good music|can you please play music *|* music for me*|*music for me|* song for me *|can you play a song for me *|can you play a song for me|* good song for me *|* play a music for me *|* play a song for me *|play next music|play next song *|play next song|play next music *|play new song *|play new song|play new music|play new music *|play another one|play new one|play next one|play * song
 !console:Playing song $name$ $play$
-{
-  "url": "http://heroku-mind.gearhostpreview.com/play-mp3.php",
-  "path" : "$"
-}
-eol
-
-मेरे लिए एक गाना बजाओ
-!console:आप के लिए $name$ $play$ गाना बजाया जा रहा है
 {
   "url": "http://heroku-mind.gearhostpreview.com/play-mp3.php",
   "path" : "$"
